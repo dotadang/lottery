@@ -31,6 +31,7 @@ var member = [
 {"phone": "","name": "汪立虎"},
 {"phone": "","name": "吴岩岩"},
 {"phone": "","name": "江惠"},
+{"phone": "","name": "王浩"},
 {"phone": "","name": "张心宇"},
 {"phone": "","name": "齐莉萍"},
 {"phone": "","name": "商晓梅"},
@@ -38,7 +39,5 @@ var member = [
 {"phone": "","name": "钟敏"},
 {"phone": "","name": "颜庭相"},
 {"phone": "","name": "陈菊香"},
-{"phone": "","name": "侯二奇"},
-{"phone": "","name": "钟总"},
-{"phone": "","name": "大王总"}
+{"phone": "","name": "侯二奇"}
 ];
