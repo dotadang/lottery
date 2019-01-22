@@ -25,7 +25,6 @@ var member = [
 {"phone": "","name": "谢志胜"},
 {"phone": "","name": "叶潘金"},
 {"phone": "","name": "黄锦辉"},
-{"phone": "","name": "王永生"},
 {"phone": "","name": "洪丽萍"},
 {"phone": "","name": "卢忱"},
 {"phone": "","name": "汪立虎"},
